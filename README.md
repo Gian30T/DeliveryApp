@@ -1,4 +1,15 @@
 App Delivery
+------------------------------
+GRUPO 4
+
+Integrantes:
+
+Gian Pier Alessandro Tovar Inuma
+
+Pedro Rodrigo Cisneros Bueno
+
+Jeison Miguel Goytizolo Chapoñan
+
 -----------------
 1. Objetivo del Proyecto
 -----------------
