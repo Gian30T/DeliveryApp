@@ -12,6 +12,7 @@ Pasarela de Pagos: Integración con tarjetas de crédito/débito, billeteras dig
 
 Estado de los Pedidos: estados del pedido (Recibido → Preparando → En camino → Entregado).
 
+/
 
 2. Perfil del Comercio (Panel Administrador)
 -----------------------------------------------------
